@@ -1,5 +1,5 @@
-function something() {
-	console.log('Iam Someting');
+something() {
+	console.log('Iam someting');
 }
-console.log('hello world');
+console.log('Hello World');
 something();
